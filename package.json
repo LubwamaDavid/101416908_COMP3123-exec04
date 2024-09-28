@@ -1,0 +1,18 @@
+{
+  "name": "101416908_COMP3123-exec04",
+  "version": "1.0.0",
+  "description": "Express JS Application for EXEC04",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "David Lubwama",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
